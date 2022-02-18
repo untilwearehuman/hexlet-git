@@ -1,1 +1,1 @@
-'Haskell Curry' 
+"Haskel Curry" 
